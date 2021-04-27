@@ -21,8 +21,8 @@ Each `trkprt` node will be sent as a telemetry message in the following format:
 
 ```json
 {
-    'lat': '47.73481',
-    'lon': '-122.257'
+    "lat": "47.73481",
+    "lon": "-122.257"
 }
 ```
 
