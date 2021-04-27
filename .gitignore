@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# GPX files
+*.gpx
+.vscode/settings.json
