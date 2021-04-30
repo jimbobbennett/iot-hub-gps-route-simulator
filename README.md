@@ -1,5 +1,8 @@
 # Azure IoT Hub GPS route simulator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+[![Twitter: jimbobbennett](https://img.shields.io/twitter/follow/jimbobbennett.svg?style=social)](https://twitter.com/jimbobbennett)
+
 This repo contains a helper Python file that can take a track in [GPX](https://wikipedia.org/wiki/GPS_Exchange_Format) format and send track data to [Azure IoT Hub](https://azure.microsoft.com/services/iot-hub/?WT.mc_id=academic-0000-jabenn). It reads the track information and send each point sequentially, with a defined pause (defaulting to 5 seconds) between each send.
 
 ## To use this code
